@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/pricefx-target-sandbox:/"
-  ],
-  "includes": ["/content/pricefx-target-sandbox/"]
+    "/content/pricefx-target-sandbox/:/"
+  ]
 }
